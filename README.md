@@ -75,14 +75,14 @@ Due to time constraint, the current plan is not cover the following topics.
     git checkout -b my-zipkin-start zipkin-start
     ```
     
-    There is no "zipkin-start" tag.  Please use the codebase of 
+    There is no "zipkin-start" tag.  Please use the "solution" codebase of 
     "Distributed Trace - Sleuth".
     
-    You will also need to download "zipkin.jar" using the following instruction
+    You will also need to download and run "zipkin.jar" using the following instruction
     
     ```
     curl -sSL https://zipkin.io/quickstart.sh | bash -s
     java -jar zipkin.jar
     ```
     
-    Or you can get "zipkin.jar" from [here](https://github.com/sashinpivotal/scs-workshop-2018/blob/master/zipkin.jar)
+  
