@@ -1,5 +1,7 @@
 # Spring Cloud Developer Workshop
 
+Tips, errors in the lab documents, etc will be posted here by the instructors.
+
 ## Service Discovery
 
 ### Eureka Service Registry
