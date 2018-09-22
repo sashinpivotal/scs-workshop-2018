@@ -92,6 +92,21 @@ Due to time constraint, the current plan is not cover the following topics.
     # requests that take more than 5 seconds will “fail fast”:
     hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds=2000
     ```
+    
+### Hystrix Stats Aggregation (Lab)
+
+-   The command to start RabbitMQ is "rabbitmq-server".
+
+## Config Server
+
+### Distributed Updates
+
+-   The RabbitMQ management and trace plugins can be installed as following:
+
+    ```
+    sudo rabbitmq-plugins enable rabbitmq_management
+    sudo rabbitmq-plugins enable rabbitmq_tracing
+    ```
 
 ## Additional Topics
 
