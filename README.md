@@ -30,7 +30,7 @@ Tips, errors in the lab documents, etc will be posted here by the instructors.
 
 -   There is an error in the “application.properties” file
     of the "timesheets-server". Change it to 5000. (Leaving it
-    2000 will not change the fundamental behavior, however.)
+    2000 will not change the outcome of the lab, however.)
     
     ```
     # requests that take more than 5 seconds will “fail fast”:
