@@ -32,5 +32,5 @@
     
     ```
     # requests that take more than 5 seconds will “fail fast”:
-hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds=2000
+    hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds=2000
     ```
