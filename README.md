@@ -93,13 +93,13 @@ Due to time constraint, the current plan is not cover the following topics.
     hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds=2000
     ```
     
-### Hystrix Stats Aggregation (Lab)
+### Hystrix Stats Aggregation (Lab - Optional)
 
 -   The command to start RabbitMQ is "rabbitmq-server".
 
 ## Config Server
 
-### Distributed Updates
+### Distributed Updates (lab - Optional)
 
 -   The RabbitMQ management and trace plugins can be installed as following:
 
@@ -110,7 +110,7 @@ Due to time constraint, the current plan is not cover the following topics.
 
 ## Additional Topics
 
-### Distributed Trace - Zipkin (Lab)
+### Distributed Trace - Zipkin (Lab - Optional)
 
 -   Even though the document says the following:
 
@@ -118,7 +118,7 @@ Due to time constraint, the current plan is not cover the following topics.
     git checkout -b my-zipkin-start zipkin-start
     ```
     
-    There is no "zipkin-start" tag.  Please use the "solution" codebase of 
+    There is no "zipkin-start" tag provided.  Please use the "solution" codebase of 
     "Distributed Trace - Sleuth".
     
     You will also need to download and run "zipkin.jar" using the following instruction
