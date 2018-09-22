@@ -52,6 +52,13 @@ Due to time constraint, the current plan is not cover the following topics.
     ```
     http post localhost:8084/time-entries projectId=1 userId=1 date=2015-05-17  hours=6
     ```
+    
+-   If you are using Ultimate Edition IntelliJ or STS, you might as well take
+    advantage of "Spring Boot Dashboard", which makes running multiple applications
+    easier to deal with.
+    
+-   If you are a Windows user and decided to use "cmd" terminal window for
+    running apps, you might consider to use [ConEMU](https://conemu.github.io/) instead
 
 ### Eureka Service Registry
 
