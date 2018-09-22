@@ -10,7 +10,7 @@
     -   Tej Tenmattam (ttenmattam@pivotal.io)
     -   Alberto Rios (arios@pivotal.io) 
 -   Polling on Students Background
-    -   How many of you have been working on Java programs more than 
+    -   How many of you have been working on Java programming more than 
         1 year, 3 years, 5 years?
     -   How many of you have worked with Spring, Spring Boot?
     -   How many of you have worked with PAAS platforms such as Cloud Foundry
