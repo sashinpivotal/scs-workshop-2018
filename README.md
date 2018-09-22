@@ -14,10 +14,10 @@
         1 year, 3 years, 5 years?
     -   How many of you have worked with Spring, Spring Boot?
     -   How many of you have worked with PAAS platforms such as Cloud Foundry
-        or Kubernetics or other platforms?
+        or Kubernetics?
 -   Workshop starts at 9AM and ends at 5PM
     -   Two 20 minutes breaks, one in the morning and one in the afternoon
-    -   Lunch time is 1 hour starting from ??
+    -   Lunch is 1 hour starting from ??
 
 ## Workshop Agenda
 
