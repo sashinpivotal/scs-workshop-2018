@@ -1,8 +1,22 @@
 # Spring Cloud Developer Workshop
 
-Tips, errors in the lab documents, etc will be posted here by the instructors.
+Tips/issues that are not mentioned in the lab documents will be 
+posted here by the instructors.
 
 ## Service Discovery
+
+### Application Continuum
+
+-   Instead of using "curl" as following:
+
+    ```
+    curl -i -XPOST -H"Content-Type: application/json" localhost:8084/time-entries/ -d"{\"projectId\": 1, \"userId\": 1, \"date\": \"2015-05-17\", \"hours\": 6}"
+    ```
+    You can use "httpie" as following:
+    
+    ```
+    http post localhost:8084/time-entries projectId=1 userId=1 date=2015-05-17  hours=6
+    ```
 
 ### Eureka Service Registry
 
