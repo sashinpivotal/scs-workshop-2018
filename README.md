@@ -26,7 +26,7 @@ Due to time constraint, the current plan is not cover the following topics.
 
 - Introduction: 
   -   Spring Cloud Dependencies
-- Service Discovery: 
+- Service Discovery (and Client-side Load Balancing): 
   -   Eureka Server REST Operations
 - Fault Tolerance: 
   -   Hystrix Stats Aggregation
@@ -40,7 +40,7 @@ Due to time constraint, the current plan is not cover the following topics.
 
 ## Service Discovery
 
-### Application Continuum
+### Application Continuum (Lab)
 
 -   Instead of using "curl" as following:
 
@@ -60,7 +60,7 @@ Due to time constraint, the current plan is not cover the following topics.
 -   If you are a Windows user and decided to use "cmd" terminal window for
     running apps, you might consider to use [ConEMU](https://conemu.github.io/) instead
 
-### Eureka Service Registry
+### Eureka Service Registry (Lab)
 
 -   Unlike IntelliJ, Eclipse/STS will not display the 
     mult-module project 
@@ -82,7 +82,7 @@ Due to time constraint, the current plan is not cover the following topics.
     
 ## Fault Tolerance
 
-### Hystrix Isolation Stratgies 
+### Hystrix Isolation Stratgies (Lab)
 
 -   There is an error in the “application.properties” file
     of the "timesheets-server". Change it to 5000. (Leaving it
@@ -95,7 +95,7 @@ Due to time constraint, the current plan is not cover the following topics.
 
 ## Additional Topics
 
-### Distributed Trace - Zipkin
+### Distributed Trace - Zipkin (Lab)
 
 -   Even though the document says the following:
 
