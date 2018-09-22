@@ -1,5 +1,26 @@
 # Spring Cloud Developer Workshop
 
+## Logistics (day 1)
+
+-   Introduction of Instructors 
+    -   Sang Shin (sashin@pivotal.io)
+    -   Alan McGinlay (amcginlay@pivotal.io)
+-   Introduction of Proctors
+    -   Anand Rao (arao@pivotal.io)
+    -   Tej Tenmattam (ttenmattam@pivotal.io)
+    -   Alberto Rios (arios@pivotal.io) 
+-   Polling on Students Background
+    -   How many of you have been working on Java programs more than 
+        1 year, 3 years, 5 years?
+    -   How many of you have worked with Spring, Spring Boot?
+    -   How many of you have worked with PAAS platforms such as Cloud Foundry
+        or Kubernetics or other platforms?
+-   Workshop starts at 9AM and ends at 5PM
+    -   Two 20 minutes breaks, one in the morning and one in the afternoon
+    -   Lunch time is 1 hour starting from ??
+
+## Workshop Agenda
+
 Due to time constraint, the current plan is not cover the following topics. 
 (This could change if we are moving faster than the plan.) 
 
