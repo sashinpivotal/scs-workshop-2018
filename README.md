@@ -1,8 +1,7 @@
 # Spring Cloud Developer Workshop
 
-Due to time constraint, we will not cover the following topics.  Please feel
-free to explore them on your own, however, especially if you finish the lab 
-exercises earlier than others.
+Due to time constraint, the current plan is not cover the following topics. 
+(This could change if we are moving faster than the plan.) 
 
 - Introduction: 
   -   Spring Cloud Dependencies
@@ -65,3 +64,25 @@ exercises earlier than others.
     # requests that take more than 5 seconds will “fail fast”:
     hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds=2000
     ```
+
+## Additional Topics
+
+### Distributed Trace - Zipkin
+
+-   Even though the document says the following:
+
+    ```
+    git checkout -b my-zipkin-start zipkin-start
+    ```
+    
+    There is no "zipkin-start" tag.  Please use the codebase of 
+    "Distributed Trace - Sleuth".
+    
+    You will also need to download "zipkin.jar" using the following instruction
+    
+    ```
+    curl -sSL https://zipkin.io/quickstart.sh | bash -s
+    java -jar zipkin.jar
+    ```
+    
+    Or you can get "zipkin.jar" from [here](https://github.com/sashinpivotal/scs-workshop-2018/blob/master/zipkin.jar)
