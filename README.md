@@ -14,12 +14,6 @@
     
     ```
     Exception in thread "main" java.lang.NoClassDefFoundError: javax/xml/bind/JAXBException
-    at monitor.Main.main(Main.java:27)
-Caused by: java.lang.ClassNotFoundException: javax.xml.bind.JAXBException
-    at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:582)
-    at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:185)
-    at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:496)
-    ... 1 more
     ``` 
     
     Or add the following dependency to the build.gradle.
