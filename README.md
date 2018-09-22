@@ -1,7 +1,22 @@
 # Spring Cloud Developer Workshop
 
-Tips/issues that are not mentioned in the lab documents will be 
-posted here by the instructors.
+Due to time constraint, we will not cover the following topics.  Please feel
+free to explore them on your own, however, especially if you finish the lab 
+exercises earlier than others.
+
+- Introduction: 
+  -   Spring Cloud Dependencies
+- Service Discovery: 
+  -   Eureka Server REST Operations
+- Fault Tolerance: 
+  -   Hystrix Stats Aggregation
+- Config Server: 
+  -   Distributed Updates
+  -   Vault Backend
+- Additional Topics:
+  -   Feign
+  -   Distributed Trace - Sleuth
+  -   Distributed Trace - Zipkin
 
 ## Service Discovery
 
