@@ -2,13 +2,16 @@
 
 ## Logistics (day 1)
 
+-   Wireless connection
+    -   Choose **SpringOnePlatform**
+    -   Password is **followtherabbit**
 -   Introduction of Instructors 
-    -   Sang Shin (sashin@pivotal.io)
-    -   Alan McGinlay (amcginlay@pivotal.io)
+    -   Sang Shin [sashin@pivotal.io](mailto:sashin@pivotal.io)
+    -   Alan McGinlay [amcginlay@pivotal.io](mailto:amcginlay@pivotal.io)
 -   Introduction of Proctors
-    -   Anand Rao (arao@pivotal.io)
-    -   Tej Tenmattam (ttenmattam@pivotal.io)
-    -   Alberto Rios (arios@pivotal.io) 
+    -   Anand Rao [arao@pivotal.io](mailto:arao@pivotal.io)
+    -   Tej Tenmattam [ttenmattam@pivotal.io](mailto:ttenmattam@pivotal.io)
+    -   Alberto Rios [arios@pivotal.io](mailto:arios@pivotal.io) 
 -   Polling on Students Background
     -   How many of you have been working on Java programming more than 
         1 year, 3 years, 5 years?
@@ -16,8 +19,8 @@
     -   How many of you have worked with PAAS platforms such as Cloud Foundry
         or Kubernetics?
 -   Workshop starts at 9AM and ends at 5PM
-    -   Two 20 minutes breaks, one in the morning and one in the afternoon
-    -   Lunch is 1 hour starting from ??
+    -   Two 15 minutes breaks, one in the morning and one in the afternoon
+    -   Lunch is 1 hour around noon
 
 ## Workshop Agenda
 
@@ -79,6 +82,14 @@ Due to time constraint, the current plan is not cover the following topics.
     ```
     compile "javax.xml.bind:jaxb-api:2.3.0"
     ```
+    
+### Service Discovery Client (Lab)
+
+-   Note that there are three different ways to create discovery client
+    -   Using `ServiceLocator` interface and `EurekaServiceLocator` 
+        implementation class (lab)
+    -   Using `DiscoveryClient` (challenge lab exercise)
+    -   Using `@LoadBalanced` annotation with `RestTemplate` (in the subsequent lab)
     
 ## Fault Tolerance
 
