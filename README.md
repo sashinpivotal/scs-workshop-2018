@@ -1,6 +1,6 @@
 # Spring Cloud Developer Workshop
 
-## Logistics (day 1)
+## Logistics and Introduction (day 1)
 
 -   Wireless connection
     -   Choose **SpringOnePlatform**
