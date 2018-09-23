@@ -21,6 +21,8 @@
 -   Workshop starts at 9AM and ends at 5PM
     -   Two 15 minutes breaks, one in the morning and one in the afternoon
     -   Lunch is 1 hour around noon
+-   Pair Programming is encouraged
+    -   Share knowledge
 
 ## Workshop Agenda
 
@@ -65,9 +67,18 @@ Due to time constraint, the current plan is not cover the following topics.
 
 ### Eureka Service Registry (Lab)
 
+-   You are standing up Eureka Server as a Spring Boot application from
+    scratch.  So you will have to create `src/main/java` directory first before
+    creating `io.pivotal.pal.tracker.eurekaserver.EurekaServerApp.java`
+    
+    Same for creating `application.yml`. You will have to create 
+    `src/main/resources` directory first before creating `application.yml`
+    underneath it.
+    
 -   Unlike IntelliJ, Eclipse/STS will not display the 
     mult-module project 
-    in the "easy to understand" hierarchical fashion.  Just
+    in a "easy to understand" hierarchical fashion. Instead, it will
+    display all projects in "flat" directory style. Just
     choose correct directory.
     
 -   If you experience the following problem when running Eureka
