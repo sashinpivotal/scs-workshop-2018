@@ -2,13 +2,14 @@
 
 ## Evaluation of the workshop (day 2)
 
--   Please do the [evalation](https://docs.google.com/forms/d/1DOM5dLXaeAQYX9BLuwRyYfQWUazB-4bGiIr5c035kv4/viewform?edit_requested=true) of the workshop - Please choose "Spring Cloud" (The 2nd)
+-   Please do the [evalation](https://docs.google.com/forms/d/1DOM5dLXaeAQYX9BLuwRyYfQWUazB-4bGiIr5c035kv4/viewform?edit_requested=true) of the workshop - Choose "Spring Cloud" (The 2nd box out of 5)
 
 ## Logistics and Introduction (day 1)
 
 -   Introduction of Instructors 
     -   Sang Shin [sashin@pivotal.io](mailto:sashin@pivotal.io)
     -   Alan McGinlay [amcginlay@pivotal.io](mailto:amcginlay@pivotal.io)
+    -   Bill Kable [bkable@pivotal.io](mailto:bkable@pivotal.io)
 -   Introduction of Proctors
     -   Anand Rao [arao@pivotal.io](mailto:arao@pivotal.io)
     -   Tej Tenmattam [ttenmattam@pivotal.io](mailto:ttenmattam@pivotal.io)
