@@ -1,5 +1,9 @@
 # Spring Cloud Developer Workshop
 
+## Evaluation of the workshop (day 2)
+
+-   Please do the [evalation](https://docs.google.com/forms/d/1DOM5dLXaeAQYX9BLuwRyYfQWUazB-4bGiIr5c035kv4/viewform?edit_requested=true) of the workshop - Please choose "Spring Cloud" (The 2nd)
+
 ## Logistics and Introduction (day 1)
 
 -   Introduction of Instructors 
