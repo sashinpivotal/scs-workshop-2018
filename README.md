@@ -103,6 +103,9 @@ Due to time constraint, the current plan is not cover the following topics.
 
 ### Hystrix Isolation Stratgies (Lab)
 
+-   In the JMeter, select HTTO Request, Advanced, Timeouts, and
+    set Connect and Response timeout to 1000 and 10000
+
 -   There is an comment error in the “application.properties” file
     of the "timesheets-server". Leave the value as it is.
     
