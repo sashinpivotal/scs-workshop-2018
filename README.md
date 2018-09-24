@@ -121,6 +121,10 @@ Due to time constraint, the current plan is not cover the following topics.
 
 ## Config Server
 
+-   Verison 0.10.x introduces breaking changes.
+    Install an older compatible version from [https://releases.hashicorp.com/vault/0.9.6/](https://releases.hashicorp.com/vault/0.9.6/)
+    Choose the correct version for your OS, unzip the binary, and copy onto the path (e.g. /usr/local/bin)
+
 ### Distributed Updates (lab - Optional)
 
 -   The RabbitMQ management and trace plugins can be installed as following:
