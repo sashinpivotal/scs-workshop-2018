@@ -9,7 +9,7 @@
 -   Introduction of Instructors 
     -   Sang Shin [sashin@pivotal.io](mailto:sashin@pivotal.io)
     -   Alan McGinlay [amcginlay@pivotal.io](mailto:amcginlay@pivotal.io)
-    -   Bill Kable [bkable@pivotal.io](mailto:bkable@pivotal.io)
+ 
 -   Introduction of Proctors
     -   Anand Rao [arao@pivotal.io](mailto:arao@pivotal.io)
     -   Tej Tenmattam [ttenmattam@pivotal.io](mailto:ttenmattam@pivotal.io)
