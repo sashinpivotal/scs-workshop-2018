@@ -103,9 +103,8 @@ Due to time constraint, the current plan is not cover the following topics.
 
 ### Hystrix Isolation Stratgies (Lab)
 
--   There is an error in the “application.properties” file
-    of the "timesheets-server". Change it to 5000. (Leaving it
-    2000 will not change the outcome of the lab, however.)
+-   There is an comment error in the “application.properties” file
+    of the "timesheets-server". Leave the value as it is.
     
     ```
     # requests that take more than 5 seconds will “fail fast”:
