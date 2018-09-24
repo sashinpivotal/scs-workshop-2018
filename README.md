@@ -2,7 +2,7 @@
 
 ## Evaluation of the workshop (day 2)
 
--   Please do the [evalation](https://docs.google.com/forms/d/1DOM5dLXaeAQYX9BLuwRyYfQWUazB-4bGiIr5c035kv4/viewform?edit_requested=true) of the workshop - Choose "Spring Cloud" (The 2nd box out of 5)
+-   Please do the [evaluation](https://docs.google.com/forms/d/1DOM5dLXaeAQYX9BLuwRyYfQWUazB-4bGiIr5c035kv4/viewform?edit_requested=true) of the workshop - Choose "Spring Cloud" (The 2nd box out of 5)
 
 ## Logistics and Introduction (day 1)
 
