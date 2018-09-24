@@ -2,9 +2,6 @@
 
 ## Logistics and Introduction (day 1)
 
--   Wireless connection
-    -   Choose **SpringOnePlatform**
-    -   Password is **followtherabbit**
 -   Introduction of Instructors 
     -   Sang Shin [sashin@pivotal.io](mailto:sashin@pivotal.io)
     -   Alan McGinlay [amcginlay@pivotal.io](mailto:amcginlay@pivotal.io)
@@ -120,6 +117,8 @@ Due to time constraint, the current plan is not cover the following topics.
 -   The command to start RabbitMQ is "rabbitmq-server".
 
 ## Config Server
+
+### Valut Backend
 
 -   Verison 0.10.x introduces breaking changes.
     Install an older compatible version from [https://releases.hashicorp.com/vault/0.9.6/](https://releases.hashicorp.com/vault/0.9.6/)
