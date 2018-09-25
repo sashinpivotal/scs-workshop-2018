@@ -144,14 +144,18 @@ Due to time constraint, the current plan is not cover the following topics.
 
 ### Distributed Trace - Zipkin (Lab - Optional)
 
--   Even though the document says the following:
+-   The document says the following:
 
     ```
     git checkout -b my-zipkin-start zipkin-start
     ```
     
-    There is no "zipkin-start" tag provided.  Please use the "solution" codebase of 
-    "Distributed Trace - Sleuth".
+    In the original lab version you downloaded in course version 1.0.24, 
+    there was not a "zipkin-start" tag provided.
+    The latest updated course has it.
+    Make sure you download the 
+    [latest lab code](https://courses.education.pivotal.io/c/349802635/codebases/spring-cloud-developer-code.zip).
+    
     
     You will also need to download and run "zipkin.jar" using the following instruction
     
