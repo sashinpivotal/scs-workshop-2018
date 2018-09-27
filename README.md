@@ -131,11 +131,12 @@ can get it [here](./hystrix-demo)
 
 ## Config Server and Spring Cloud Bus
 
-See the [Spring Cloud Bus documentation](http://cloud.spring.io/spring-cloud-static/spring-cloud-bus/2.0.0.RELEASE/single/spring-cloud-bus.html)
-for how to use and/or customize.
-See the [sample code](./spring-cloud-bus-demo)
-to demonstrate how to use custom `RemoteApplicationEvents` with Spring
-Cloud Bus and its Event listeners.
+-   See the [Spring Cloud Bus documentation](http://cloud.spring.io/spring-cloud-static/spring-cloud-bus/2.0.0.RELEASE/single/spring-cloud-bus.html)
+    for how to use and/or customize.
+
+-   See the [sample code](./spring-cloud-bus-demo)
+    to demonstrate how to use custom `RemoteApplicationEvent` with Spring
+    Cloud Bus and its Event listeners.
 
 ### Valut Backend
 
