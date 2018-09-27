@@ -1,0 +1,17 @@
+logging:
+  level:
+    io:
+      pivotal: INFO
+    org:
+      springframework:
+        cloud:
+          sleuth: INFO
+
+spring:
+  zipkin:
+    sender:
+      type: rabbit
+
+fortune-service:
+  failure:
+    latency: 10

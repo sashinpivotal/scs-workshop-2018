@@ -1,0 +1,11 @@
+rootProject.name="netflix-oss-demos"
+
+include 'components:failure-modes'
+
+include 'platform-services:config-server'
+include 'platform-services:service-registry'
+include 'platform-services:turbine'
+include 'platform-services:cb-dashboard'
+
+include 'applications:fortune-service'
+include 'applications:greeting'

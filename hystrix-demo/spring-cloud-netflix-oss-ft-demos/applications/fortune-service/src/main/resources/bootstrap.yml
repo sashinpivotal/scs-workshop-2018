@@ -1,0 +1,14 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: fortune-service
+  cloud:
+    config:
+      uri: http://localhost:8888
+      fail-fast: true
+      retry:
+        initial-interval: 2000
+        max-attempts: 6
+        max-interval: 20000
+        multiplier: 1.2

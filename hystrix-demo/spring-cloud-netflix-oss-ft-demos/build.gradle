@@ -1,0 +1,33 @@
+buildscript {
+    ext {
+        springBootVersion = '1.5.13.RELEASE'
+        springCloudVersion = 'Edgware.SR3'
+        springVersion = '4.3.17.RELEASE'
+    }
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        classpath "org.springframework.boot:spring-boot-gradle-plugin:$springBootVersion"
+    }
+}
+
+subprojects {
+    group = "io.pivotal.pal.demos.netflix"
+    version = "1.0.0-SNAPSHOT"
+
+    apply plugin: "java"
+    defaultTasks "clean", "build"
+
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+        testCompile "junit:junit:4.12"
+        testCompile "org.mockito:mockito-core:2.2.26"
+        testCompile "org.assertj:assertj-core:3.8.0"
+    }
+}

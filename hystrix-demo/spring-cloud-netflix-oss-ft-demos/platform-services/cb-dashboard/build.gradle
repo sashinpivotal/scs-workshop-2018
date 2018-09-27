@@ -1,0 +1,5 @@
+apply from: "$projectDir/../server.gradle"
+
+dependencies {
+	compile('org.springframework.cloud:spring-cloud-starter-hystrix-dashboard')
+}

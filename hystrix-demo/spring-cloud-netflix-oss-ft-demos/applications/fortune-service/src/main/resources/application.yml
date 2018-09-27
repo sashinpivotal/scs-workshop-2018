@@ -1,0 +1,63 @@
+#management:
+#  security:
+#    enabled: false
+#
+#security:
+#  basic:
+#    enabled: false
+#
+## Default Hystrix Configuration, see following for details
+## https://github.com/Netflix/Hystrix/wiki/Configuration
+#
+#hystrix:
+#  command:
+#    default:
+#      execution:
+#        isolation:
+#          strategy: THREAD
+#          # strategy: SEMAPHORE
+#        thread:
+#          timeoutInMilliseconds: 1000
+#          interruptOnTimeout: true
+#          interruptOnCancel: false
+#        # semaphore:
+#          # maxConcurrentRequests: 10
+#        timeout:
+#          enabled: true
+#      fallback:
+#        isolation:
+#          # semaphore:
+#            # maxConcurrentRequests: 10
+#        enabled: true
+#      circuitBreaker:
+#        enabled: true
+#        requestVolumeThreshold: 20
+#        sleepWindowInMilliseconds: 5000
+#        errorThresholdPercentage: 50
+#        forceOpen: false
+#        forceClosed: false
+#      metrics:
+#        rollingStats:
+#          timeInMilliseconds: 10000
+#          numBuckets: 10
+#        rollingPercentile:
+#          enabled: true
+#          timeInMilliseconds: 60000
+#          numBuckets: 6
+#          bucketSize: 100
+#        healthSnapshot:
+#          intervalInMilliseconds: 500
+#
+#  threadpool:
+#    default:
+#      coreSize: 10
+#      maximumSize: 10 # Will be core size unless `allowMaximumSizeToDivergeFromCoreSize` true
+#      allowMaximumSizeToDivergeFromCoreSize: false
+#      maxQueueSize: -1 # Requires restart
+#      queueSizeRejectionThreshold: 5
+#      keepAliveTimeMinutes: 1
+#      metrics:
+#        rollingStats:
+#          timeInMilliseconds: 10000
+#          numBuckets: 10
+#
