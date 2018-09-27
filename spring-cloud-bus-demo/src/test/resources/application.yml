@@ -1,0 +1,12 @@
+management:
+  # Boot 2.x
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+spring:
+  rabbitmq:
+    addresses: localhost
+    username: guest
+    password: guest
