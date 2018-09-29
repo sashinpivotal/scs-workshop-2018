@@ -170,7 +170,8 @@ can get it [here](./hystrix-demo)
     [latest lab code](https://courses.education.pivotal.io/c/349802635/codebases/spring-cloud-developer-code.zip).
 
 
-    You will also need to download and run "zipkin.jar" using the following instruction
+    You will also need to download and run "zipkin.jar" using the 
+    following instruction (if you were using original lab version)
 
     ```
     curl -sSL https://zipkin.io/quickstart.sh | bash -s
